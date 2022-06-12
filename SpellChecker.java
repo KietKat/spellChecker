@@ -87,14 +87,4 @@ public class SpellChecker{
         }
         return sug;
     }
-
-    private String reorganizeLetter(String word) throws FileNotFoundException
-    {
-        String sug="";
-        for (int i = 0; i < word.length()-1; i++)
-        {
-            char[] ch = word.toCharArray();
-        }
-        return sug;
-    }
 }
