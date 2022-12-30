@@ -1,4 +1,4 @@
-# spellChecker
+# Spell Checker
 Used language: Java
 Core implementation: Hash map
 Create a Spell Checker that takes a String input and checks if the word is correctly pronounced or not. If misspelled, return a list of suggestions for the word. The project was created while Wordle (a game where players have 5 tries to find a 5-letter random English word) became very popular and the project performed quite helpful completing this game. 
